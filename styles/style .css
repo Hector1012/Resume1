@@ -1,0 +1,25 @@
+body {
+    font-size: 14px;
+    color: cornsilk;
+        background-color: black;
+        border: #009;
+        border-color: crimson;
+      
+  }
+  
+  
+  h1, h2 {
+    color: #ffc;
+    margin-inline-end: 0%;
+    background-color: rgb(75, 75, 86);                 
+  }
+  
+
+
+
+ul, hr { font-style: italic;
+    column-fill: auto;
+    border-color: aquamarine;
+
+
+}
