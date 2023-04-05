@@ -1,0 +1,124 @@
+body {
+    font-size: 14px;
+    color: cornsilk;
+        
+        border: #009;
+    background-image: url("../image/background.webp");
+                
+  }
+   
+ul, hr { font-style: italic; 
+    
+}
+
+h1 {
+    font-size: 40px;
+    background-color: rgb(75, 75, 86);
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 40px;
+    border-color: #ffc;
+    border-radius: 10px 20px 30px 40px;
+    border-bottom-style: solid;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    
+}
+img {
+border-radius: 50%;
+object-fit: cover;
+align-items: center;
+border-left-color: #ffc;
+display: block;
+margin: 0 auto;
+position: absolute;
+top: 13px;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: rgb(75, 75, 86);
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 40px;
+  }
+  
+  h2 {
+    border-bottom-style: groove;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #ffc;
+    border-radius: 10px 20px 30px 40px;
+ 
+  }
+  h3, p, ul {
+    margin-left: 50px;
+}
+
+h3 {
+    font-size: 20;
+    text-decoration: underline;
+}
+
+p, ul {
+    font-size: 15;
+}
+
+div, #menu ul  {
+    color: #ffc;
+    position: absolute;
+    right: 50px;
+    top: 30px;
+
+}
+footer #contact p form {
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+
+main {
+    position: relative;
+    top: 95px;
+    right: 200;
+}
+
+section {
+    border: #ffc;
+    border-style: groove;
+    margin: 2px;
+    border-radius: 10px 20px 30px 40px;
+    background-color:rgb(94, 83, 83);
+
+
+}
+article, .to-top {
+    right: 80px;
+    bottom: 80px;
+    position: fixed;
+    font-size: xx-large;
+    z-index: 9;
+    
+
+}
+ .to-top a{
+    cursor: pointer;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.hero {
+    background-color: aliceblue;
+    color: #000;
+}
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
